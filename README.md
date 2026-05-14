@@ -1,6 +1,6 @@
 # Yale / UNC-CH — Geophysical Waveform Inversion
 
-个人参赛仓库：[Kaggle · Yale/UNC-CH - Geophysical Waveform Inversion](https://www.kaggle.com/competitions/waveform-inversion/overview)
+参赛项目：[Kaggle · Yale/UNC-CH - Geophysical Waveform Inversion](https://www.kaggle.com/competitions/waveform-inversion/overview)
 
 该赛题关注**地球物理全波形反演（FWI）**：从观测到的地震波形等信息中恢复地下介质属性，结合物理约束与机器学习/深度学习方法。
 
